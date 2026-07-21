@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0187_000-J.yaml, hash: 'sha256:6305290fd6361ca6ba6f34003747dbced61d0ef724ec85915c8938293d245215'}
+  - {seq: 0, filename: KR6q0187_000-J.yaml, hash: 'sha256:94bcc69c505107d119560e9358014f27bb43266243176b301d0dedfc3ead630d'}
   - {seq: 1, filename: KR6q0187_001-J.yaml, hash: 'sha256:bf7cc5f682e3d923a0ff46220b84b71667a226c250083f5032e1197e9334f282'}
   - {seq: 2, filename: KR6q0187_002-J.yaml, hash: 'sha256:7fc0192d5581a29c24343c5a8c91ae908e38b1673c7da5f39c999cd9ce048010'}
   - {seq: 3, filename: KR6q0187_003-J.yaml, hash: 'sha256:c63b2c3e3c63184bb3f763bad7f2c9a670701f5a68b2ab35023ee06ce3bc46f6'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0187_009-J.yaml, hash: 'sha256:9e23315c4266c20617daf4d2a0c44edeed6d3c5409f2ff83e497219e18b4e67e'}
   - {seq: 10, filename: KR6q0187_010-J.yaml, hash: 'sha256:b623789323d027495c04c27ed2b7597199d5f1aa07d6c03e7eb043452275d5fd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0187_000-J.markers.yaml, hash: 'sha256:23a2ea7600cb434573064db3bedf496d5035fbfa57112e3455892fc25191b964'}
+  - {seq: 0, role: markers, filename: assets/KR6q0187_000-J.markers.yaml, hash: 'sha256:444c965b6be5c4b4accf8b835e693d6f58a50ebf30f02ee3b508bfea7856e483'}
   - {seq: 1, role: markers, filename: assets/KR6q0187_001-J.markers.yaml, hash: 'sha256:4dff801000911f03925191ca771f87c75ac84b5617bfa76f5229d58ae46c0aee'}
   - {seq: 2, role: markers, filename: assets/KR6q0187_002-J.markers.yaml, hash: 'sha256:12935ade39f3cd3b6aa8652d6fd07531b53767bce9eb5ad130edecc5b6fcf3f9'}
   - {seq: 3, role: markers, filename: assets/KR6q0187_003-J.markers.yaml, hash: 'sha256:3a7055c75f4d18652882a84b6c94c493bb75fab79c5993aa8f3b96aebca98a91'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0187_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0187_J_000-mulu-2
     span:
-    - front
+    - body
     - 589
     - 589
   label: 目錄
@@ -2073,4 +2073,4 @@ table_of_contents:
   label: 跋匡廬社圖
   type: mulu
   level: 1
-hash: sha256:ccd0c0a058460edcfdd943ac5f88ca8e37ab3cc4ffd0885c4c08a85af58ada89
+hash: sha256:cb70e74c86d7522fb3ba2811bbd91d5546aeb5ea5bb47059c4e9faff80675150
